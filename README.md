@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1309177152624918688/1309558791133593650/Picsart_24-11-21_19-46-38-202.png?ex=6742052a&is=6740b3aa&hm=02ffa725a8741372dd5a7103dedda7aa84415a5c97b4809b6e135c638af0d88f&" alt="Banner" width="100%">
+    <img src="https://media.discordapp.net/attachments/1131684686343708692/1309635778158268476/2-bandeira-do-brasil.jpg?ex=67424cdd&is=6740fb5d&hm=28966a957a9cafd3af4e0a32e00a13cbd449de62db680c8b7f83c9c7ea23961b&" alt="Banner" width="100%">
 </div>
 
 <!-- Título com imagem do lado -->
