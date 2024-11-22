@@ -22,13 +22,13 @@
 ---
 
 ## 🛠️ **Sobre Mim**
-Sou desenvolvedor apaixonado por criar soluções eficientes e criativas! Especializado em bots para Discord e automações, com foco em projetos que combinam funcionalidade avançada e um toque único. Meus projetos são desenvolvidos com cuidado para atender às necessidades da comunidade.
+Me chamo Golden, sou desenvolvedor com experiência mediana, faço projetos não oficiais para a plataforma Discord. normalmente meus projetos vem de modos aleatórios, e que a maioria das vezes são descontinuados.
 
 ---
 
 ## 🌟 **Projetos em Destaque**
 ### 🔥 **VelaBot**  
-Um bot inovador para sincronização de mensagens, sistemas avançados de gerenciamento e muito mais!  
+bot para sincronização de mensagens, sistemas avançados de gerenciamento e muito mais!  
 ✅ **Principais Recursos**:  
 - Sincronização de mensagens entre usuários.  
 - Aceitação de termos de uso com persistência de dados.  
@@ -39,18 +39,10 @@ Um bot inovador para sincronização de mensagens, sistemas avançados de gerenc
 ---
 
 ## 🖥️ **Tecnologias e Ferramentas**
-- **Linguagens**: Python, JavaScript  
+- **Linguagens**: Python, JavaScript, Html 
 - **Frameworks**: Discord.py, Flask  
 - **Ferramentas**: Git, VSCode  
 
 ---
 
-## 📫 **Entre em Contato**
-- 📧 E-mail: [goldenduck9757@example.com](mailto:goldenduck9757@example.com)  
-- 🌐 [Meu LinkedIn](#)  
-
----
-
-<div align="center">
-    <strong>🌟 Desenvolvido com paixão por GoldenDuck9757 🌟</strong>
 </div>
