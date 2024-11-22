@@ -34,7 +34,7 @@ bot para sincronização de mensagens, sistemas avançados de gerenciamento e mu
 - Aceitação de termos de uso com persistência de dados.  
 - Controle automatizado de exclusões e edições sincronizadas.  
 
-[🔗 Repositório do VelaBot] (#https://github.com/GoldenDuck9757/V.e.l.a-Discord-bot-)  
+[🔗 Repositório do VelaBot](https://github.com/GoldenDuck9757/V.e.l.a-Discord-bot-)
 
 ---
 
