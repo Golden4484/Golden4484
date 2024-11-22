@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        body {
+            background: url('https://media.discordapp.net/attachments/1131684686343708692/1309635778158268476/2-bandeira-do-brasil.jpg?ex=67424cdd&is=6740fb5d&hm=28966a957a9cafd3af4e0a32e00a13cbd449de62db680c8b7f83c9c7ea23961b') no-repeat center center fixed;
+            background-size: cover;
+        }
+
+        .emoji {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 2rem;
+            cursor: pointer;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <a href="#" class="emoji" id="randomEmoji"></a>
+    <script>
+        const emojis = ["😀", "😅", "😂", "🤣", "😊", "😎", "😍", "😇", "🙃", "😜", "🤩", "🤔", "😬", "😴", "🤐", "🥳", "😢", "😡", "🤯", "🥺", "🫠"];
+        const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
+        const emojiElement = document.getElementById('randomEmoji');
+        emojiElement.textContent = randomEmoji;
+        emojiElement.href = "https://hsyts.com.br"; 
+    </script>
+</body>
+</html>
