@@ -37,7 +37,7 @@ bot para sincronização de mensagens, sistemas avançados de gerenciamento e mu
 ---
 
 ### PyCharacterAI---Template
-templetes para o [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI), contendo Scripts completos e otimizados para modificação e desenvolvimento externo para a plataforma telegram e Discord.                **principais Recursos**: 
+templetes para o [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI), contendo Scripts completos e otimizados para modificação e desenvolvimento externo para a plataforma telegram e Discord.               **Principais Recursos**: 
 - Códigos completos e otimizados
 - Adaptados para desenvolvimento externo 
 - 100% opensource
