@@ -37,7 +37,14 @@ bot para sincronização de mensagens, sistemas avançados de gerenciamento e mu
 [ Repositório do VelaBot](https://github.com/GoldenDuck9757/V.e.l.a-Discord-bot-)
 ---
 
-## 
+### PyCharacterAI---Template
+templetes para o PyCharacterAI, contendo Scripts completos e otimizados para modificação e desenvolvimento externo para a plataforma telegram e Discord.
+ **principais Recursos**:
+- Códigos completos e otimizados
+- Adaptados para desenvolvimento externo 
+- 100% opensource
+
+[ Repositório do PyCharacterAI---Template](https://github.com/GoldenDuck9757/PyCharacterAI---Template)
 ---
 
 ##  **Tecnologias e Ferramentas**
