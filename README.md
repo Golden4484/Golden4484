@@ -28,8 +28,7 @@ Me chamo Golden, sou desenvolvedor com experiência mediana, faço projetos não
 
 ##  **Projetos em Destaque**
 ###  **VelaBot**  
-bot para sincronização de mensagens, sistemas avançados de gerenciamento e muito mais!  
- **Principais Recursos**:  
+bot para sincronização de mensagens, sistemas avançados de gerenciamento e muito mais!**Principais Recursos**:  
 - Sincronização de mensagens entre usuários.  
 - Aceitação de termos de uso com persistência de dados.  
 - Controle automatizado de exclusões e edições sincronizadas.  
