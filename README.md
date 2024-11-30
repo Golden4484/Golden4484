@@ -28,7 +28,10 @@ Me chamo Golden, sou desenvolvedor com experiência mediana, faço projetos não
 
 ##  **Projetos em Destaque**
 ###  **VelaBot**  
-bot para sincronização de mensagens, sistemas avançados de gerenciamento e muito mais!**Principais Recursos**:  
+bot para sincronização de mensagens, sistemas avançados de gerenciamento e muito mais!
+
+
+ **Principais Recursos**:  
 - Sincronização de mensagens entre usuários.  
 - Aceitação de termos de uso com persistência de dados.  
 - Controle automatizado de exclusões e edições sincronizadas.  
@@ -37,7 +40,10 @@ bot para sincronização de mensagens, sistemas avançados de gerenciamento e mu
 ---
 
 ### PyCharacterAI---Template
-templetes para o [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI), contendo Scripts completos e otimizados para modificação e desenvolvimento externo para a plataforma telegram e Discord.                 **Principais Recursos**: 
+templetes para o [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI), contendo Scripts completos e otimizados para modificação e desenvolvimento externo para a plataforma telegram e Discord.                 
+
+
+ **Principais Recursos**: 
 - Códigos completos e otimizados
 - Adaptados para desenvolvimento externo 
 - 100% opensource
