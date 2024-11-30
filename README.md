@@ -21,24 +21,26 @@
 
 ---
 
-## 🛠️ **Sobre Mim**
+##  **Sobre Mim**
 Me chamo Golden, sou desenvolvedor com experiência mediana, faço projetos não oficiais para a plataforma Discord. normalmente meus projetos vem de modos aleatórios, e que a maioria das vezes são descontinuados.
 
 ---
 
-## 🌟 **Projetos em Destaque**
-### 🔥 **VelaBot**  
+##  **Projetos em Destaque**
+###  **VelaBot**  
 bot para sincronização de mensagens, sistemas avançados de gerenciamento e muito mais!  
-✅ **Principais Recursos**:  
+ **Principais Recursos**:  
 - Sincronização de mensagens entre usuários.  
 - Aceitação de termos de uso com persistência de dados.  
 - Controle automatizado de exclusões e edições sincronizadas.  
 
-[🔗 Repositório do VelaBot](https://github.com/GoldenDuck9757/V.e.l.a-Discord-bot-)
-
+[ Repositório do VelaBot](https://github.com/GoldenDuck9757/V.e.l.a-Discord-bot-)
 ---
 
-## 🖥️ **Tecnologias e Ferramentas**
+## 
+---
+
+##  **Tecnologias e Ferramentas**
 - **Linguagens**: Python, JavaScript, Html 
 - **Frameworks**: Discord.py, Flask  
 - **Ferramentas**: Git, VSCode  
