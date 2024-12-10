@@ -1,7 +1,3 @@
-<!-- Banner -->
-<div align="center">
-    <img src="https://media.discordapp.net/attachments/1131684686343708692/1309635778158268476/2-bandeira-do-brasil.jpg?ex=67424cdd&is=6740fb5d&hm=28966a957a9cafd3af4e0a32e00a13cbd449de62db680c8b7f83c9c7ea23961b&" alt="Banner" width="100%">
-</div>
 
 <!-- Título com imagem do lado -->
 <div align="center">
