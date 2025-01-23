@@ -101,8 +101,3 @@ templetes para o [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI), conten
                 </tr>
         </table>
 </div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GoldenDuck9757=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Z4nzu&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenDuck9757=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
