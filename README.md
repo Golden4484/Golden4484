@@ -104,4 +104,3 @@ templetes para o [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI), conten
                 </tr>
         </table>
 </div>
----
