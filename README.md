@@ -102,4 +102,17 @@ templetes para o [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI), conten
         </table>
 </div>
 
-https://img.shields.io/badge/Ouvir%20no-SoundCloud-orange?style=for-the-badge&logo=soundcloud
+
+## Ouça uma Música
+
+Clique no botão abaixo para ouvir **Debussy, Arabesque 1, Piano Solo** no SoundCloud:
+
+[![Ouvir no SoundCloud](https://img.shields.io/badge/Ouvir%20no-SoundCloud-orange?style=for-the-badge&logo=soundcloud)](https://on.soundcloud.com/y7ngHAa9oJANjiz96)
+
+---
+
+### Prévia Automática (Player Embutido)
+
+Você também pode ouvir diretamente por aqui:
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1491530972&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
