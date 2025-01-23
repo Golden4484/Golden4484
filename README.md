@@ -101,3 +101,5 @@ templetes para o [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI), conten
                 </tr>
         </table>
 </div>
+
+https://img.shields.io/badge/Ouvir%20no-SoundCloud-orange?style=for-the-badge&logo=soundcloud
