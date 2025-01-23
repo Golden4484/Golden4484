@@ -1,4 +1,4 @@
-[![GoldenDuck9757 lore](https://img.shields.io/badge/GoldenDuck9757%20Lore-orange?style=for-the-badge&logo=soundcloud)](https://on.soundcloud.com/y7ngHAa9oJANjiz96)
+[![Ouvir no SoundCloud](https://img.shields.io/badge/Ouvir%20no-SoundCloud-orange?style=for-the-badge&logo=soundcloud)](https://on.soundcloud.com/y7ngHAa9oJANjiz96)
 
 
 <!-- Título com imagem do lado -->
