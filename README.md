@@ -54,7 +54,7 @@ templetes para o [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI), conten
 [ Repositório do PyCharacterAI---Template](https://github.com/GoldenDuck9757/PyCharacterAI---Template)
 ---
 
-
+---
 # Linguagens e usos gerais (totalmente desorganizado):
 <div >
         <table>
@@ -104,3 +104,4 @@ templetes para o [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI), conten
                 </tr>
         </table>
 </div>
+---
