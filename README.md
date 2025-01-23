@@ -1,4 +1,6 @@
 [![Ouvir no SoundCloud](https://img.shields.io/badge/Ouvir%20no-SoundCloud-orange?style=for-the-badge&logo=soundcloud)](https://on.soundcloud.com/y7ngHAa9oJANjiz96)
+[![Ouvir no Spotify](https://img.shields.io/badge/Ouvir%20no-Spotify-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/6ub9vuiAB9MQ6p61cd6eIa?si=j5hXq_AnQ9mP2gKOK1bVqw)
+
 
 <!-- Título com imagem do lado -->
 <div align="center">
