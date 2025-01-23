@@ -100,9 +100,9 @@ templetes para o [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI), conten
                         <td><code><img width="50" src="https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32" alt="Raspberri Pi" title="Raspberri Pi"/></code></td>
                 </tr>
         </table>
----
+</div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Z4nzu&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=GoldenDuck9757=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Z4nzu&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z4nzu&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenDuck9757=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
