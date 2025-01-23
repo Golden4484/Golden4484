@@ -55,7 +55,7 @@ templetes para o [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI), conten
 ---
 
 
-# Linguagem e ferramentas:
+# Linguagens e usos gerais (totalmente desorganizado):
 <div >
         <table>
                 <tr>
