@@ -1,6 +1,5 @@
 [![Ouvir no SoundCloud](https://img.shields.io/badge/Ouvir%20no-SoundCloud-orange?style=for-the-badge&logo=soundcloud)](https://on.soundcloud.com/y7ngHAa9oJANjiz96)
 
-
 <!-- Título com imagem do lado -->
 <div align="center">
     <table>
