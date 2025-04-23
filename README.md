@@ -1,5 +1,5 @@
-[![Ouvir no SoundCloud](https://img.shields.io/badge/Ouvir%20no-SoundCloud-orange?style=for-the-badge&logo=soundcloud)](https://on.soundcloud.com/y7ngHAa9oJANjiz96)
-[![Ouvir no Spotify](https://img.shields.io/badge/Ouvir%20no-Spotify-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/6ub9vuiAB9MQ6p61cd6eIa?si=j5hXq_AnQ9mP2gKOK1bVqw)
+
+[![OmegaAi](Ω)](https://sodenoshirayuki.netlify.app/?fbclid=PAY2xjawJ2VfZleHRuA2FlbQIxMQABp7QPdCKJQUG0itR2qkI_ex5Ie-6wbU2HFYb33i_U48Wsc_YOHYJhXvu7e9H9_aem_VhpEjowRGrOCt4OASy5-AA)
 
 
 <!-- Título com imagem do lado -->
