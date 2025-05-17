@@ -1,58 +1,59 @@
-<div align="right" style="margin-bottom: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=Golden4484&style=for-the-badge&labelColor=00000000&color=555555&label=𝖁𝖎𝖘𝖚𝖆𝖑𝖎𝖟𝖆çõ𝖊𝖘" alt="Visualizações do perfil"/>
+<div align="right" style="margin-bottom: 16px;">
+  <img src="https://komarev.com/ghpvc/?username=Golden4484&style=for-the-badge&labelColor=0e1117&color=3fb950&label=𝖯𝖱𝖮𝖥𝖨𝖫𝖤.𝖵𝖨𝖤𝖶𝖲" alt="Profile views"/>
 </div>
 
-# 𝕲𝖔𝖑𝖉𝖊𝖓4484
-
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://avatars.githubusercontent.com/u/125841328?v=4" width="150" style="border-radius: 50%; border: 2px solid #f0f0f0;">
-      </td>
-      <td>
-        <h1 style="margin: 0; padding: 0; font-family: 'Times New Roman', serif;">𝕲𝖔𝖑𝖉𝖊𝖓4484</h1>
-        <p style="margin-top: 8px; color: #777;">𝕯𝖊𝖘𝖊𝖓𝖛𝖔𝖑𝖛𝖊𝖉𝖔𝖗 𝖊 𝕮𝖗𝖎𝖆𝖉𝖔𝖗 𝖉𝖊 𝕾𝖔𝖑𝖚𝖈̧𝖔̃𝖊𝖘</p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://avatars.githubusercontent.com/u/125841328?v=4" width="160" style="border-radius: 50%; border: 3px solid #3fb950; box-shadow: 0 4px 12px rgba(63, 185, 80, 0.2);">
+  <h1 style="margin: 16px 0 8px 0; font-size: 2.5rem;">𝕲𝖔𝖑𝖉𝖊𝖓4484</h1>
+  <p style="margin: 0; color: #7d8590; font-size: 1.1rem;">𝕱𝖚𝖑𝖑-𝕾𝖙𝖆𝖈𝖐 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 | 𝕯𝖎𝖘𝖈𝖔𝖗𝖉 𝕾𝖕𝖊𝖈𝖎𝖆𝖑𝖎𝖘𝖙</p>
 </div>
 
 ---
 
 ## 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊
-Desenvolvedor full-stack com foco em soluções inovadoras para Discord e automações inteligentes. Combino criatividade com código eficiente para resolver problemas complexos.
+Innovative developer specializing in Discord bot architecture and full-stack solutions. I build performant, scalable applications with clean code and intuitive interfaces. Passionate about creating tools that enhance digital communities and streamline workflows.
 
 ---
 
 ## 𝕱𝖊𝖆𝖙𝖚𝖗𝖊𝖉 𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘
 
-### 𝖁𝖊𝖑𝖆𝕭𝖔𝖙 • <sub>Plataforma Discord</sub>
-Sistema avançado de gerenciamento de comunidades
+### 𝖁𝖊𝖑𝖆𝕭𝖔𝖙 • Discord Synchronization Platform
+Enterprise-grade message management system for large communities
 
-**Principais funcionalidades:**
-⌙ Sincronização de mensagens em tempo real  
-⌙ Painel de moderação automatizada  
-⌙ Sistema de termos de uso integrado  
+**Core Features:**  
+▸ Real-time cross-server message synchronization  
+▸ Automated moderation with machine learning  
+▸ GDPR-compliant data persistence layer  
+▸ Role-based access control system  
 
-[[ Repositório ]](https://github.com/seu-usuario/seu-repositorio)
-
----
-
-### 𝕻𝖞𝕮𝖍𝖆𝖗𝖆𝖈𝖙𝖊𝖗𝕬𝕴 • <sub>Framework IA</sub>
-Template para desenvolvimento de chatbots avançados
-
-**Diferenciais:**
-⌙ Arquitetura modular e escalável  
-⌙ Suporte multi-plataforma  
-⌙ Documentação detalhada  
-
-[[ Repositório ]](https://github.com/seu-usuario/seu-repositorio)
+[[ Repository ]](https://github.com/Golden4484/VelaBot) | [[ Documentation ]](https://velabot.docs)
 
 ---
 
-## 𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐
+### 𝕻𝖞𝕮𝖍𝖆𝖗𝖆𝖈𝖙𝖊𝖗𝕬𝕴 • AI Framework
+Modular chatbot development toolkit
 
-<div align="center" style="margin: 25px 0;">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,django,flask,postgres,mysql,sqlite,redis,git,github,docker,nginx,aws,linux,bash,html,css" alt="Tecnologias" style="filter: grayscale(10%) opacity(0.9);">
+**Key Advantages:**  
+▸ Plugin-based architecture  
+▸ Multi-platform support (Discord/Telegram/Web)  
+▸ NLP integration ready  
+▸ Comprehensive testing suite  
+
+[[ Repository ]](https://github.com/Golden4484/PyCharacterAI) | [[ Demo ]](https://pycharacterai.demo)
+
+---
+
+## 𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖞 𝕾𝖙𝖆𝖈𝖐
+
+<div align="center" style="margin: 24px 0;">
+  <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,django,flask,fastapi,postgres,mongodb,redis,docker,kubernetes,aws,gcp,azure,git,github,actions,linux,nginx,grafana,prometheus" alt="Technology Stack">
+</div>
+
+<div align="center" style="margin-top: 32px;">
+  <a href="https://github.com/Golden4484?tab=repositories">
+    <img src="https://img.shields.io/badge/𝖤𝖝𝖕𝖑𝖔𝖗𝖊-𝖒𝖞_𝖗𝖊𝖕𝖔𝖘-3fb950?style=for-the-badge&logo=github" alt="Explore Repos">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/𝕮𝖔𝖓𝖙𝖆𝖈𝖙-𝖊𝖒𝖆𝖎𝖑-3fb950?style=for-the-badge&logo=gmail" alt="Contact">
+  </a>
 </div>
