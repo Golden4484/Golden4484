@@ -67,3 +67,4 @@
   <div align="center" style="margin: 24px 0;">
     <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,django,flask,fastapi,postgres,mongodb,redis,docker,kubernetes,aws,gcp,azure,git,github,actions,linux,nginx,grafana,prometheus" alt="Technology Stack" />
   </div>
+</section>
