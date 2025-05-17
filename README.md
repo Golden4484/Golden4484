@@ -10,14 +10,14 @@
 
 ---
 
-## 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊
+## 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊  
 Innovative developer specializing in Discord bot architecture and full-stack solutions. I build performant, scalable applications with clean code and intuitive interfaces. Passionate about creating tools that enhance digital communities and streamline workflows.
 
 ---
 
 ## 𝕱𝖊𝖆𝖙𝖚𝖗𝖊𝖉 𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘
 
-### 𝖁𝖊𝖑𝖆𝕭𝖔𝖙 • Discord Synchronization Platform
+### 𝖁𝖊𝖑𝖆𝕭𝖔𝖙 • Discord Synchronization Platform  
 Enterprise-grade message management system for large communities
 
 **Core Features:**  
@@ -26,11 +26,11 @@ Enterprise-grade message management system for large communities
 ▸ GDPR-compliant data persistence layer  
 ▸ Role-based access control system  
 
-[[ Repository ]](https://github.com/Golden4484/VelaBot) | [[ Documentation ]](https://velabot.docs)
+[Repository](https://github.com/Golden4484/VelaBot)
 
 ---
 
-### 𝕻𝖞𝕮𝖍𝖆𝖗𝖆𝖈𝖙𝖊𝖗𝕬𝕴 • AI Framework
+### 𝕻𝖞𝕮𝖍𝖆𝖗𝖆𝖈𝖙𝖊𝖗𝕬𝕴 • AI Framework  
 Modular chatbot development toolkit
 
 **Key Advantages:**  
@@ -39,7 +39,7 @@ Modular chatbot development toolkit
 ▸ NLP integration ready  
 ▸ Comprehensive testing suite  
 
-[[ Repository ]](https://github.com/Golden4484/PyCharacterAI) | [[ Demo ]](https://pycharacterai.demo)
+[Repository](https://github.com/Golden4484/PyCharacterAI)
 
 ---
 
@@ -52,8 +52,5 @@ Modular chatbot development toolkit
 <div align="center" style="margin-top: 32px;">
   <a href="https://github.com/Golden4484?tab=repositories">
     <img src="https://img.shields.io/badge/𝖤𝖝𝖕𝖑𝖔𝖗𝖊-𝖒𝖞_𝖗𝖊𝖕𝖔𝖘-3fb950?style=for-the-badge&logo=github" alt="Explore Repos">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/𝕮𝖔𝖓𝖙𝖆𝖈𝖙-𝖊𝖒𝖆𝖎𝖑-3fb950?style=for-the-badge&logo=gmail" alt="Contact">
   </a>
 </div>
