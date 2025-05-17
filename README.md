@@ -1,3 +1,5 @@
+<img src="./snake.svg" alt="snake animation" />
+
 
 [![OmegaAi](https://images.app.goo.gl/ucyMEEVpShSfUwtL6)](https://sodenoshirayuki.netlify.app/?fbclid=PAY2xjawJ2VfZleHRuA2FlbQIxMQABp7QPdCKJQUG0itR2qkI_ex5Ie-6wbU2HFYb33i_U48Wsc_YOHYJhXvu7e9H9_aem_VhpEjowRGrOCt4OASy5-AA)
 
