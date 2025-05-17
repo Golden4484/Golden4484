@@ -6,7 +6,7 @@
         <tr>
             <!-- Imagem -->
             <td>
-                <img src="https://avatars.githubusercontent.com/u/125841328?v=4">
+                <img src="https://imgur.com/a/LG5lCiE">
             </td>
             <!-- Nome -->
             <td>
