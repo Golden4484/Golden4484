@@ -2,7 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=Golden4484&style=for-the-badge&labelColor=1f2023&color=9e9e9e&label=𝔳𝔦𝔢𝔴𝔰" alt="Profile views" />
 </div>
 
-<div align="center" style="padding: 0 20px;">
+<div align="center" style="padding: 0 20px; position: relative;">
+  <!-- Lacinho girado -->
+  <img src="https://raw.githubusercontent.com/Golden4484/Golden4484/main/0329df3569009118eef67c27092b2c0b.gif"
+       width="60"
+       style="position: absolute; right: 20px; top: 10px; transform: rotate(90deg); border-radius: 8px;" />
+
   <img src="https://avatars.githubusercontent.com/u/125841328?v=4" width="160" 
     style="border-radius: 50%; border: 3px solid #3fb950; box-shadow: 0 4px 12px rgba(63, 185, 80, 0.25);" />
   <h1 style="margin: 16px 0 8px; font-family: 'Cursive', monospace; font-size: 2.8rem; color: #3fb950;">
@@ -69,15 +74,15 @@
   </div>
 </section>
 
-<!-- GIFzinho maroto -->
+<!-- Novo GIFzinho inferior -->
 <section style="max-width: 700px; margin: 40px auto 20px; padding: 0 20px;">
   <div align="center">
-    <img src="https://raw.githubusercontent.com/Golden4484/Golden4484/main/c8b9c9c37a962e43a44f24abb5266354.gif"
-         alt="Golden moment"
+    <img src="https://raw.githubusercontent.com/Golden4484/Golden4484/main/2dfe4f4e72a2bb40828090041bcbe8bb.gif"
+         alt="Golden style"
          width="200"
          style="border-radius: 12px; margin-top: 16px; opacity: 0.85;" />
     <p style="font-size: 0.95rem; color: #777; font-family: 'Courier New', monospace; margin-top: 8px;">
-      ⸻ 𝔴𝔥𝔢𝔫 𝔱𝔥𝔢 𝔟𝔬𝔱 𝔯𝔲𝔫𝔰 𝔴𝔦𝔱𝔥𝔬𝔲𝔱 𝔞 𝔰𝔦𝔫𝔤𝔩𝔢 𝔢𝔯𝔯𝔬𝔯 ⸻
+      ⸻ 𝔰𝔱𝔞𝔶 𝔠𝔬𝔬𝔩, 𝔠𝔬𝔡𝔢 𝔠𝔩𝔢𝔞𝔫 ⸻
     </p>
   </div>
 </section>
