@@ -82,7 +82,7 @@
          width="200"
          style="border-radius: 12px; margin-top: 16px; opacity: 0.85;" />
     <p style="font-size: 0.95rem; color: #777; font-family: 'Courier New', monospace; margin-top: 8px;">
-      ⸻ 𝔰𝔱𝔞𝔶 𝔠𝔬𝔬𝔩, 𝔠𝔬𝔡𝔢 𝔠𝔩𝔢𝔞𝔫 ⸻
+      ⸻ 𝔰𝔱𝔞𝔶 𝔠𝔬𝔬𝔩 ⸻
     </p>
   </div>
 </section>
