@@ -1,6 +1,6 @@
 <img src="./skane.svg" alt="snake animation" />
 
-[![OmegaAi](https://i.imgur.com/9wMJtfl.png)](https://sodenoshirayuki.netlify.app/)
+[![OmegaAi](https://imgur.com/a/LG5lCiE)](https://sodenoshirayuki.netlify.app/)
 
 <!-- Título com imagem do lado -->
 <div align="center">
