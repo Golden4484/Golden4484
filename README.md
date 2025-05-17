@@ -1,4 +1,4 @@
-<img src="./snake.svg" alt="snake animation" />
+<img src="./skane.svg" alt="snake animation" />
 
 [![OmegaAi](https://i.imgur.com/9wMJtfl.png)](https://sodenoshirayuki.netlify.app/)
 
