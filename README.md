@@ -1,5 +1,5 @@
 <div align="right" style="margin-bottom: 16px;">
-  <img src="https://komarev.com/ghpvc/?username=Golden4484&style=for-the-badge&labelColor=1f2023&color=9e9e9e&label=𝕻.𝕍𝕴𝕰𝖂𝕾" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Golden4484&style=for-the-badge&labelColor=1f2023&color=9e9e9e&label=𝔳𝔦𝔢𝔴𝔰" alt="Profile views" />
 </div>
 
 <div align="center" style="padding: 0 20px;">
@@ -67,11 +67,3 @@
   <div align="center" style="margin: 24px 0;">
     <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,django,flask,fastapi,postgres,mongodb,redis,docker,kubernetes,aws,gcp,azure,git,github,actions,linux,nginx,grafana,prometheus" alt="Technology Stack" />
   </div>
-
-  <div align="center" style="margin-top: 32px;">
-    <a href="https://github.com/Golden4484?tab=repositories" 
-       style="display: inline-block; background: #555; color: #ccc; padding: 10px 24px; border-radius: 6px; font-family: 'Courier New', monospace; font-weight: 700; text-decoration: none; box-shadow: 0 2px 5px rgba(0,0,0,0.2); transition: background 0.3s;">
-      𝕻.𝕍𝕴𝕰𝖂𝕾
-    </a>
-  </div>
-</section>
