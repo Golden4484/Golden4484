@@ -10,7 +10,7 @@
             </td>
             <!-- Nome -->
             <td>
-                <h1 align="center">GoldenDuck9757</h1>
+                <h1 align="center">Golden4484</h1>
             </td>
         </tr>
     </table>
