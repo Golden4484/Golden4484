@@ -1,5 +1,3 @@
-<img src="./skane.svg" alt="snake animation" />
-
 [![OmegaAi](https://imgur.com/a/LG5lCiE)](https://sodenoshirayuki.netlify.app/)
 
 <!-- Título com imagem do lado -->
