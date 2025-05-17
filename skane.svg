@@ -1,13 +1,25 @@
-<svg viewBox="0 0 100 100" width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 120 120" width="300" height="300" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .dot {
+    rect {
       fill: purple;
     }
   </style>
-  <rect width="100%" height="100%" fill="#f0f0f0"/>
 
-  <circle class="dot" r="5" cx="10" cy="10">
-    <animate attributeName="cx" values="10;30;50;70;90;90;90;90;90;70;50;30;10;10;10;10" dur="4s" repeatCount="indefinite" />
-    <animate attributeName="cy" values="10;10;10;10;10;30;50;70;90;90;90;90;90;70;50;30" dur="4s" repeatCount="indefinite" />
-  </circle>
+  <!-- Cabeça -->
+  <rect width="10" height="10">
+    <animate attributeName="x" values="0;10;20;30;40;50;60;70;80;90;100;110;110;110;110;110;100;90;80;70;60;50;40;30;20;10;0;0;0;0" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="0;0;0;0;0;0;0;0;0;0;0;10;20;30;40;50;50;50;50;50;50;50;50;50;50;50;50;40;30;20" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corpo 1 -->
+  <rect width="10" height="10">
+    <animate attributeName="x" values="-10;0;10;20;30;40;50;60;70;80;90;100;100;100;100;100;90;80;70;60;50;40;30;20;10;0;-10;-10;-10;-10" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="0;0;0;0;0;0;0;0;0;0;0;10;20;30;40;50;50;50;50;50;50;50;50;50;50;50;50;40;30;20" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corpo 2 -->
+  <rect width="10" height="10">
+    <animate attributeName="x" values="-20;-10;0;10;20;30;40;50;60;70;80;90;90;90;90;90;80;70;60;50;40;30;20;10;0;-10;-20;-20;-20;-20" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="0;0;0;0;0;0;0;0;0;0;0;10;20;30;40;50;50;50;50;50;50;50;50;50;50;50;50;40;30;20" dur="6s" repeatCount="indefinite"/>
+  </rect>
 </svg>
