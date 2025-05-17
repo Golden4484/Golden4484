@@ -77,7 +77,7 @@
 <!-- Novo GIFzinho inferior -->
 <section style="max-width: 700px; margin: 40px auto 20px; padding: 0 20px;">
   <div align="center">
-    <img src="https://raw.githubusercontent.com/Golden4484/Golden4484/main/2dfe4f4e72a2bb40828090041bcbe8bb.gif"
+    <img src="https://github.com/Golden4484/Golden4484/blob/main/22f8829905251c8d1e88d81aed03c292.gif"
          alt="Golden style"
          width="200"
          style="border-radius: 12px; margin-top: 16px; opacity: 0.85;" />
