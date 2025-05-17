@@ -1,4 +1,4 @@
-# Golden4484 ✨
+# 𝕲𝖔𝖑𝖉𝖊𝖓4484
 
 <div align="center">
   <table>
@@ -7,7 +7,7 @@
         <img src="https://avatars.githubusercontent.com/u/125841328?v=4" width="150" style="border-radius: 50%">
       </td>
       <td>
-        <h1>Golden4484</h1>
+        <h1>𝕲𝖔𝖑𝖉𝖊𝖓4484</h1>
         <p>Developer | Creator | Innovator</p>
       </td>
     </tr>
@@ -16,38 +16,38 @@
 
 ---
 
-## About Me
+## 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊
 Hi there! I'm Golden, a passionate developer specializing in Discord applications. I love to create unique projects that combine creativity and technology.
 
 ---
 
-## 🌟 Featured Projects
+## 𝕱𝖊𝖆𝖙𝖚𝖗𝖊𝖉 𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘
 
-### VelaBot
+### 𝖁𝖊𝖑𝖆𝖇𝖔𝖙
 A powerful Discord bot for message synchronization and community management
 
-✨ **Key Features:**
+**Key Features:**
 - Real-time message synchronization
 - Terms of use system with persistent storage
 - Automated moderation tools
 
-🔗 [View Repository](https://github.com/your-repo-link)
+[View Repository](https://github.com/your-repo-link)
 
 ---
 
-### PyCharacterAI - Template
+### 𝕻𝖞𝕮𝖍𝖆𝖗𝖆𝖈𝖙𝖊𝖗𝕬𝕴 - 𝕿𝖊𝖒𝖕𝖑𝖆𝖙𝖊
 Open-source templates for building Chatbots
 
-✨ **Key Features:**
+**Key Features:**
 - Pre-optimized scripts
 - Easy customization
 - Telegram & Discord support
 
-🔗 [View Repository](https://github.com/your-repo-link)
+[View Repository](https://github.com/your-repo-link)
 
 ---
 
-## 💻 Tech Stack
+## 𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐
 
 <div align="center">
   <table>
