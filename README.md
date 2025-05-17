@@ -4,7 +4,7 @@
 
 <div align="center" style="padding: 0 20px; position: relative;">
   <!-- Lacinho girado -->
-  <img src="https://github.com/Golden4484/Golden4484/blob/main/244886e2be6e389f2472ad7bf143c4e6.gif"
+  <img src="https://github.com/Golden4484/Golden4484/blob/main/4fd0c049c173c9beb5a0101a84deb6f9.gif"
        width="60"
        style="position: absolute; right: 20px; top: 10px; transform: rotate(90deg); border-radius: 8px;" />
 
