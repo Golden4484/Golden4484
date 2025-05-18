@@ -46,7 +46,7 @@
       ▸ GDPR-compliant data persistence layer<br>
       ▸ Role-based access control system
     </p>
-    <p><a href="https://github.com/Golden4484/V.e.l.a-Discord-bot-" style="color: #3fb950; text-decoration: none; font-weight: 800;">〈⦅𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝔂⦆〉</a></p>
+    <p><a href="https://github.com/Golden4484/V.e.l.a-Discord-bot-" style="color: #3fb950; text-decoration: none; font-weight: 1800;">〈⦅𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝔂⦆〉</a></p>
   </article>
 
   <article>
@@ -63,7 +63,7 @@
       ▸ NLP integration ready<br>
       ▸ Comprehensive testing suite
     </p>
-    <p><a href="https://github.com/Golden4484/PyCharacterAI---Template" style="color: #3fb950; text-decoration: none; font-weight: 800;">〈⦅𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝔂⦆〉</a></p>
+    <p><a href="https://github.com/Golden4484/PyCharacterAI---Template" style="color: #3fb950; text-decoration: none; font-weight: 1800;">〈⦅𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝔂⦆〉</a></p>
   </article>
 
   <h2 style="font-family: 'Courier New', monospace; font-weight: 700; color: #3fb950; margin: 48px 0 16px;">
