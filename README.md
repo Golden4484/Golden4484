@@ -3,7 +3,6 @@
 </div>  
   
 <div align="center" style="padding: 0 20px; position: relative;">  
-  <!-- Spinning ribbon -->  
   <img src="https://github.com/Golden4484/Golden4484/blob/main/4fd0c049c173c9beb5a0101a84deb6f9.gif"  
        width="60"  
        style="position: absolute; right: 20px; top: 10px; transform: rotate(90deg); border-radius: 8px;" />  
@@ -38,6 +37,10 @@
   <h2 style="font-family: 'Courier New', monospace; font-weight: 700; color: #3fb950; margin: 36px 0 12px;">  
     Featured Projects  
   </h2>  
+
+  <h3 style="font-family: 'Courier New', monospace; color: #3fb950; margin: 24px 0 12px; border-bottom: 1px solid #2e2f33; padding-bottom: 6px;">
+    Discord Development
+  </h3>
   
   <article style="margin-bottom: 32px;">  
     <h3 style="font-family: 'Courier New', monospace; color: #3fb950; margin-bottom: 8px;">  
@@ -58,23 +61,6 @@
   
   <article style="margin-bottom: 32px;">  
     <h3 style="font-family: 'Courier New', monospace; color: #3fb950; margin-bottom: 8px;">  
-      PyCharacterAI • AI Framework  
-    </h3>  
-    <p style="color: #b0b6bb; margin-bottom: 8px;">  
-      Modular chatbot development toolkit  
-    </p>  
-    <p style="color: #9db2a8; font-size: 0.95rem; margin-bottom: 8px;">  
-      <strong>Key Advantages:</strong><br>  
-      ▸ Plugin-based architecture<br>  
-      ▸ Multi-platform support (Discord/Telegram/Web)<br>  
-      ▸ NLP integration ready<br>  
-      ▸ Comprehensive testing suite  
-    </p>  
-    <p><a href="https://github.com/Golden4484/PyCharacterAI---Template" style="color: #3fb950; text-decoration: none; font-weight: 1800;">〈⦅Repository⦆〉</a></p>  
-  </article>  
-  
-  <article style="margin-bottom: 32px;">  
-    <h3 style="font-family: 'Courier New', monospace; color: #3fb950; margin-bottom: 8px;">  
       Discord-and-Telegram-Sync • Cross-Platform Chat Bridge  
     </h3>  
     <p style="color: #b0b6bb; margin-bottom: 8px;">  
@@ -89,18 +75,38 @@
     <p><a href="https://github.com/Golden4484/Discord-and-Telegram-Sync-?tab=readme-ov-file" style="color: #3fb950; text-decoration: none; font-weight: 1800;">〈⦅Repository⦆〉</a></p>  
   </article>
 
+  <h3 style="font-family: 'Courier New', monospace; color: #3fb950; margin: 24px 0 12px; border-bottom: 1px solid #2e2f33; padding-bottom: 6px;">
+    AI Development
+  </h3>
+
+  <article style="margin-bottom: 32px;">  
+    <h3 style="font-family: 'Courier New', monospace; color: #3fb950; margin-bottom: 8px;">  
+      PyCharacterAI • AI Framework  
+    </h3>  
+    <p style="color: #b0b6bb; margin-bottom: 8px;">  
+      Modular chatbot development toolkit  
+    </p>  
+    <p style="color: #9db2a8; font-size: 0.95rem; margin-bottom: 8px;">  
+      <strong>Key Advantages:</strong><br>  
+      ▸ Plugin-based architecture<br>  
+      ▸ Multi-platform support (Discord/Telegram/Web)<br>  
+      ▸ NLP integration ready<br>  
+      ▸ Comprehensive testing suite  
+    </p>  
+    <p><a href="https://github.com/Golden4484/PyCharacterAI---Template" style="color: #3fb950; text-decoration: none; font-weight: 1800;">〈⦅Repository⦆〉</a></p>  
+  </article>  
+
   <article style="margin-bottom: 32px;">
     <h3 style="font-family: 'Courier New', monospace; color: #3fb950; margin-bottom: 8px;">
       CharacterAI Token Capture • Userscript & Integration Tool
     </h3>
     <p style="color: #b0b6bb; margin-bottom: 8px;">
-      An unofficial userscript to effortlessly capture your Character.AI authentication token for use with popular unofficial libraries. Supports both desktop and mobile browsers.
+      An unofficial userscript to effortlessly capture your Character.AI authentication token for use with popular unofficial libraries.
     </p>
     <p style="color: #9db2a8; font-size: 0.95rem; margin-bottom: 8px;">
       <strong>Key Features:</strong><br>
       ▸ Easy token capture by activating Voice Enabled Mode in Character.AI chats<br>
-      ▸ Works on desktop browsers with ViolentMonkey extension<br>
-      ▸ Compatible with mobile browsers (Kiwi Browser) using ViolentMonkey or Tampermonkey<br>
+      ▸ Works on desktop and mobile browsers<br>
       ▸ Helps streamline integration with popular libraries like node_characterai and PyCharacterAI
     </p>
     <p><a href="https://github.com/Golden4484/characterai-token-capture" style="color: #3fb950; text-decoration: none; font-weight: 1800;">〈⦅Repository⦆〉</a></p>
@@ -114,7 +120,6 @@
   </div>
 </section>
 
-<!-- Bottom GIF -->
 <section style="max-width: 700px; margin: 40px auto 20px; padding: 0 20px;">
   <div align="center">
     <img src="https://github.com/Golden4484/Golden4484/blob/main/695eb4bbf96291ef0813969a32fd4776.gif"
